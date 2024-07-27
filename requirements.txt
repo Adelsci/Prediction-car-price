@@ -62,6 +62,7 @@ parso==0.8.4
 peewee==3.17.5
 pillow==10.3.0
 platformdirs==4.2.1
+plotly==5.23.0
 prompt-toolkit==3.0.43
 protobuf==4.25.3
 psutil==5.9.8
